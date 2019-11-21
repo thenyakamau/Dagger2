@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Dagger 2</string>
+    <string name="password">Password</string>
+    <string name="user_name">User Name</string>
+    <string name="sign_in">Sign In</string>
+    <string name="dagger">Dagger 2 Trial</string>
+
+</resources>
